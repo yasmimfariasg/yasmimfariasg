@@ -1,12 +1,11 @@
 <div align="center">
 
-# 💙 Olá, eu sou a Maria!
-
+# Olá, eu sou a Maria!
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM3Y2dvZHJleWs0MmFpdHZoaGJyY2Fxd2M3MW1ocW5yMXc2dXV3ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fxsZjkEjAp0R2b396m/giphy.gif">
 <!-- COLOQUE A IMAGEM AQUI PELO EDITOR DO GITHUB -->
 
 <br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZjM2xuNmEwcTJseDBwZTBvM21tbXRseXBtNDNrZ2Z4Ymwxc3V0aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dY15DUkfMSvek4eE86/giphy.gif" width="300px" alt="GIF">
 
 </div>
 
@@ -14,7 +13,7 @@
 
 ## 👩🏻‍💻 Sobre mim
 
-Olá! Meu nome é **Maria** e sou uma estudante apaixonada por tecnologia e programação. 💻💙
+Olá! Meu nome é **Maria** e sou uma estudante apaixonada por tecnologia e programação. 
 
 Estou aprendendo cada vez mais sobre o mundo da tecnologia e criando meus próprios projetos enquanto estudo.
 
@@ -22,12 +21,12 @@ Estou aprendendo cada vez mais sobre o mundo da tecnologia e criando meus própr
 
 ## 🌱 Atualmente estou aprendendo
 
-- 💻 Programação
-- 🌐 Desenvolvimento Web
-- 🐍 Python
-- 🎨 HTML e CSS
-- 🗃️ Banco de Dados
-- 🐙 Git e GitHub
+- Programação
+- Desenvolvimento Web
+- Python
+- HTML e CSS
+- Banco de Dados
+- Git e GitHub
 
 ---
 
@@ -53,29 +52,27 @@ prática tudo o que aprendo através dos meus projetos.
 
 ---
 
-## 💙 Um pouco sobre mim
+##  Um pouco sobre mim
 
-- 🎓 Sou estudante
-- 💻 Gosto de tecnologia
-- 🚀 Quero evoluir cada vez mais na programação
-- 📚 Estou sempre aprendendo coisas novas
-- 🎨 Gosto de criar projetos
-- 💙 Amo a cor azul
+- Sou estudante
+- Gosto de tecnologia
+- Quero evoluir cada vez mais na programação
+- Estou sempre aprendendo coisas novas
+- Gosto de criar projetos
 
 ---
 
-## 🎯 Meu objetivo
+## Meu objetivo
 
 Meu objetivo é continuar estudando, desenvolver meus conhecimentos
-em programação e criar projetos cada vez melhores. 🚀
+em programação e criar projetos cada vez melhores. 
 
----
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2M0bjlnZWN0NHM3a2p0N3ZvYm1zaGNpYmduNmtoeXUydHVnNnc5cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Qw6znEQzNPS1IpsuYp/giphy.gif">
 
 <div align="center">
 
-## ✨ Obrigada por visitar meu perfil! ✨
+##  Obrigada por visitar meu perfil!
 
-💙 **Maria** 💙
 
 <br>
 
